@@ -1,4 +1,4 @@
-## Hi, I'm Subin! 👋
+# Hi, I'm Subin! 👋
 
 - I'm an AI Engineer :computer:
 - I'm currently studying MSc Data Science with AI :mortar_board:
